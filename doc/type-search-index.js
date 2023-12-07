@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.projak.edms","l":"DBConnection"},{"p":"com.projak.edms.logs.filereader","l":"ErrorDescription"},{"p":"com.projak.edms","l":"ResourceData"}];updateSearchResults();
